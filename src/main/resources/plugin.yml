@@ -1,5 +1,5 @@
 name: sendPluginMessages
-main: com.minecats.sendpluginmessages.sendPluginMessages
+main: com.minecats.sendpluginmessages.SendPluginMessages
 version: 1.0
 description: Yikes! Make this worse
 author: cindyk
