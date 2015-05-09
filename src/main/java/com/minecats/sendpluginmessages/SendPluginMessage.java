@@ -15,7 +15,7 @@ import org.bukkit.plugin.messaging.PluginMessageListener;
  * Test of plugin messaging.
  *
  */
-public class SendPluginMessages extends JavaPlugin implements Listener, PluginMessageListener, CommandExecutor {
+public class SendPluginMessage extends JavaPlugin implements Listener, PluginMessageListener, CommandExecutor {
     @Override
     public void onEnable() {
         super.onEnable();
